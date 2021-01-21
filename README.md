@@ -17,7 +17,7 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 - :alarm_clock::uk: [discord-reminderBot](https://github.com/RundesBalli/discord-reminderBot) - A small script for sending predefines messages to a discord text channel in predefined intervals.
 - :game_die::de: [telegram-Zufallbot](https://github.com/RundesBalli/telegram-Zufallbot) - Telegram bot for generation of random numbers and letters. [use it](https://t.me/zufallbot)
 - :camera::uk: [terminal-imager](https://github.com/RundesBalli/terminal-imager) - A PHP script which creates "terminal images" from an inputfile.
-- :page_facing_up::uk: [escpos-php-driver](https://github.com/RundesBalli/escpos-php-driver) - A driver for Epson ESC/POS thermal printers written in PHP.
+- :printer::uk: [escpos-php-driver](https://github.com/RundesBalli/escpos-php-driver) - A driver for Epson ESC/POS thermal printers written in PHP.
 
 #### :clown_face: Fun projects
 - :pineapple::de: [anti-ananas.club](https://github.com/RundesBalli/anti-ananas.club) - A fun website for pineapple (:de: Ananas) haters! [website](https://anti-ananas.club)
