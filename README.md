@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><img src="/header.png?raw=true" alt="RundesBalli"/></p>
 
-<!--
-**RundesBalli/RundesBalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :information_source: About me
+I am a hobby developer from :de: Germany who likes **procedural :elephant: PHP coding** and does not do this for a living.  
 
-Here are some ideas to get you started:
+### :scroll: Projects
+Most of my public projects are **small tools**, **scripts**, **boilerplates** and **websites**, which are commented, documented and coded in :uk: english language. Some of them are for use with the german imageboard [pr0gramm.com](https://pr0gramm.com) and because of the majority of the target group of pr0gramm is German-speaking, the projects are commented and documented in :de: German.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :8ball: Contact me
+- [Telegram](https://t.me/RundesBalli)
+- [Email](mailto:GitHub@RundesBalli.com)
+
+### :globe_with_meridians: Visit my website!
+[RundesBalli.com](https://RundesBalli.com)
