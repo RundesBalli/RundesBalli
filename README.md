@@ -35,6 +35,9 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 - [Telegram](https://t.me/RundesBalli)
 - [Email](mailto:GitHub@RundesBalli.com)
 
+I will ignore automated emails and I am not interested in studies or full-time job offers.  
+If you have any questions about my projects or think I'm the right person for your project, feel free to email me.
+
 ## :globe_with_meridians: Visit :de: [my website](https://RundesBalli.com)!
 
 ## Thanks
