@@ -32,11 +32,12 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 - :broom::uk: [php-tidy snippet](https://gist.github.com/RundesBalli/a5d20a8c92a9a004803980654e638cbb) - A small php-snippet for tidy HTML Output.
 
 ## :8ball: Contact me
+<sub>You can contact me in German :de: (native language) or English :uk:.</sub>
 - [Telegram](https://t.me/RundesBalli)
 - [Email](mailto:GitHub@RundesBalli.com)
 
 I will ignore automated emails and I am not interested in studies or full-time job offers.  
-If you have any questions about my projects or think I'm the right person for your project, feel free to email me.
+If you think I'd be the right person for your project, feel free to email me!  Likewise, If you have any comments, criticism, questions, etc. about my projects - or just want to say "hi" - don't hesitate to contact me.
 
 ## :globe_with_meridians: Visit :de: [my website](https://RundesBalli.com)!
 
