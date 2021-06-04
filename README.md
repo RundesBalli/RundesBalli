@@ -22,6 +22,7 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 #### :clown_face: Fun projects
 - :pineapple::de: [anti-ananas.club](https://github.com/RundesBalli/anti-ananas.club) - A fun website for pineapple (:de: Ananas) haters! [website](https://anti-ananas.club)
 - :musical_note::de: [boomerparty.live](https://github.com/RundesBalli/boomerparty.live) - Website of the famous [boomerparty-playlist](https://boomerparty.live/) for my friend [@kaisermolay](https://github.com/kaisermolay).
+- :blue_book::uk: [Factorio Blueprints](https://github.com/RundesBalli/factorio-blueprints) - A collection of my factorio blueprints.
 
 #### :link: pr0gramm projects
 - :de: see [here](https://github.com/RundesBalli?tab=repositories&q=pr0)
