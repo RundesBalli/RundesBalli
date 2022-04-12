@@ -33,6 +33,7 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 - :1234::uk: [Fractionizer](https://gist.github.com/RundesBalli/a987971322ce7122e223393901fd90ec) - A simple number format function with quarter, half and three quarter fraction output.
 - :hash::uk: [hex2rgb](https://gist.github.com/RundesBalli/32f5491df25abb7fe0864e6447a26b75) - A hex2rgb php-function for calculating the RGB values of a hex string.
 - :broom::uk: [php-tidy snippet](https://gist.github.com/RundesBalli/a5d20a8c92a9a004803980654e638cbb) - A small php-snippet for tidy HTML Output.
+- :link::uk: [clickableLinks](https://gist.github.com/RundesBalli/3c49de99e16c776c9cf733ffb9f2ebf9) - A small function to automatically link URLs in texts.
 
 ## :8ball: Contact me
 <sub>You can contact me in German :de: (native language) or English :uk:.</sub>
