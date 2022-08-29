@@ -15,16 +15,22 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 
 #### :arrow_right: Small projects
 - :alarm_clock::uk: [discord-reminderBot](https://github.com/RundesBalli/discord-reminderBot) - A small script for sending predefines messages to a discord text channel in predefined intervals.
-- :game_die::de: [telegram-Zufallbot](https://github.com/RundesBalli/telegram-Zufallbot) - Telegram bot for generation of random numbers and letters. [use it](https://t.me/zufallbot)
 - :camera::uk: [terminal-imager](https://github.com/RundesBalli/terminal-imager) - A PHP script which creates "terminal images" from an inputfile.
 - :printer::uk: [escpos-php-driver](https://github.com/RundesBalli/escpos-php-driver) - A driver for Epson ESC/POS thermal printers written in PHP.
-- :globe_with_meridians::uk: [Server online-status check with reporting to telegram](https://gist.github.com/RundesBalli/4bdcf555c78c17a7b917de31cd7b4df0) - A simple script to check the online-status of a server and send a report via telegram in case of downtime.
 - :radioactive::uk: [ADR-Crawler](https://github.com/RundesBalli/ADR-Crawler) - Ambient dose rate crawler to fetch the ambient dose rate of around 1700 measurement points in Germany.
 
 #### :clown_face: Fun projects
 - :pineapple::de: [anti-ananas.club](https://github.com/RundesBalli/anti-ananas.club) - A fun website for pineapple (:de: Ananas) haters! [website](https://anti-ananas.club)
-- :musical_note::de: [boomerparty.live](https://github.com/RundesBalli/boomerparty.live) - Website of the famous [boomerparty-playlist](https://boomerparty.live/) for my friend [@kaisermolay](https://github.com/kaisermolay).
 - :blue_book::uk: [Factorio Blueprints](https://github.com/RundesBalli/factorio-blueprints) - A collection of my factorio blueprints.
+
+#### :robot: Telegram projects
+- :game_die::de: [telegram-Zufallbot](https://github.com/RundesBalli/telegram-Zufallbot) - Telegram bot for generation of random numbers and letters. [use it](https://t.me/zufallbot)
+- :globe_with_meridians::uk: [Server online-status check with reporting to telegram](https://gist.github.com/RundesBalli/4bdcf555c78c17a7b917de31cd7b4df0) - A simple script to check the online-status of a server and send a report via telegram in case of downtime.
+- :id::uk: [telegramChatIdBot](https://github.com/RundesBalli/telegramChatIdBot) - Telegram bot to find out the chat id of private- and group-chats. [use it](https://t.me/rb_chatId_bot)
+
+#### Projects of friends I have worked on
+- :musical_note::de: [boomerparty.live](https://github.com/RundesBalli/boomerparty.live) - Website of the famous [boomerparty-playlist](https://boomerparty.live/) for my friend [@kaisermolay](https://github.com/kaisermolay).
+- :cook::de: [nezos.cooking](https://github.com/RundesBalli/cooking) - [Recipe page](https://nezos.cooking) of my friend [Nezos](https://nezos.wtf).
 
 #### :link: pr0gramm projects
 - :de: see [here](https://github.com/RundesBalli?tab=repositories&q=pr0)
