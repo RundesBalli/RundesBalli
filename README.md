@@ -27,6 +27,7 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 - :game_die::de: [telegram-Zufallbot](https://github.com/RundesBalli/telegram-Zufallbot) - Telegram bot for generation of random numbers and letters. [use it](https://t.me/zufallbot)
 - :globe_with_meridians::uk: [Server online-status check with reporting to telegram](https://gist.github.com/RundesBalli/4bdcf555c78c17a7b917de31cd7b4df0) - A simple script to check the online-status of a server and send a report via telegram in case of downtime.
 - :id::uk: [telegramChatIdBot](https://github.com/RundesBalli/telegramChatIdBot) - Telegram bot to find out the chat id of private- and group-chats. [use it](https://t.me/rb_chatId_bot)
+- :airplane::uk: [adsbTelegramNotifier](https://github.com/RundesBalli/adsbTelegramNotifier) - Notifies via Telegram when an aircraft passes over a certain area.
 
 #### :wave: Projects of friends I have worked on
 - :musical_note::de: [boomerparty.live](https://github.com/RundesBalli/boomerparty.live) - Website of the famous [boomerparty-playlist](https://boomerparty.live/) for my friend [@kaisermolay](https://github.com/kaisermolay).
