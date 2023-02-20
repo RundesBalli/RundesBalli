@@ -50,7 +50,7 @@ Most of my public projects are **small tools**, **scripts**, **boilerplates** an
 I will ignore automated emails and I am not interested in studies or full-time job offers.  
 If you think I'd be the right person for your project, feel free to email me!  Likewise, If you have any comments, criticism, questions, etc. about my projects - or just want to say "hi" - don't hesitate to contact me.
 
-## :globe_with_meridians: Visit :de: [my website](https://RundesBalli.com)!
+## :globe_with_meridians: Visit [my website](https://RundesBalli.com)!
 
 ## Thanks
 Thanks to my friend [@NullDev](https://github.com/NullDev) for helping me with JavaScript, CSS and English!  
