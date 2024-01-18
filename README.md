@@ -1,12 +1,12 @@
 <p align="center"><img src="/header.png?raw=true" alt="RundesBalli"/></p>
 
 ## :information_source: About me
-I am a hobbyist developer from :de: Germany who likes **procedural :elephant: PHP coding**, without doing this for a living.
+I am a hobbyist developer from :de: Germany who likes **procedural :elephant: PHP coding**, while not doing this for a living.
 
 My interests are the development of [small tools, little helpers and various websites](https://RundesBalli.com/projects) and the management of the [Bratwurst-ADSB](https://info.bratwurst.network) community project.
 
 ## :scroll: Projects
-I would like to invite you to my website 🎱 [RundesBalli.com](https://RundesBalli.com), where you will find an overview of all my projects and the links to the respective repositories and/or websites.
+I would also like to direct you to my website 🎱 [RundesBalli.com](https://RundesBalli.com), where you can find an overview of all my projects and the links to the respective repositories and/or websites.
 
 ## :8ball: Contact me
 - Telegram: [RundesBalli](https://t.me/RundesBalli)
