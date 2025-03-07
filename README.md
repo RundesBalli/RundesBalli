@@ -1,4 +1,4 @@
-<p align="center"><img src="/header.png?raw=true" alt="RundesBalli"/></p>
+<p align="center"><img src="/header.svg?raw=true" alt="RundesBalli" width="100%" height="auto"/></p>
 
 ## :information_source: About me
 I am a hobbyist developer from :de: Germany who likes **procedural :elephant: PHP coding**, while not doing this for a living.
